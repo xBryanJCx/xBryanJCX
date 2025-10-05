@@ -1,53 +1,44 @@
-## Hi there 👋 I'm Bryan!
+# Hi there 👋 I'm Bryan!
 
-### 🎯 About Me
-Aspiring IT professional seeking my first opportunity in **NOC**, **SRE**, **DevOps**, or **Cybersecurity**. Passionate about infrastructure, automation, and security, with a strong foundation in Linux systems and programming.
+## 🎯 About Me
+Recent Systems Engineering graduate seeking my first opportunity as a **NOC Technician** or **Junior Network Administrator**. Strong foundation in Linux administration, Python scripting, and networking fundamentals. Open to night shifts and rotational schedules.
 
-### 🛠️ Technical Skills
-- **Programming:** Python (automation, scripting)
-- **Operating Systems:** Linux (administration, bash scripting)
-- **Networking:** TCP/IP, DNS, routing fundamentals
-- **Version Control:** Git & GitHub
-- **Currently Learning:** Docker, Kubernetes, CI/CD pipelines, security tools
+## 🛠️ Technical Skills
+- **Operating Systems:** Linux (Ubuntu, CentOS) - command line, system administration, bash scripting
+- **Programming:** Python (network automation, log parsing, system scripts)
+- **Networking:** TCP/IP, DNS, routing, switching, network troubleshooting, Wireshark
+- **Tools:** Git, VirtualBox, network monitoring basics
+- **Languages:** Spanish (Native), English (Intermediate)
 
-### 🔭 What I'm Working On
-- Building automation scripts in Python to optimize system tasks
-- Practicing Linux system administration and troubleshooting
-- Learning cloud technologies (AWS/Azure/GCP)
-- Studying for certifications: [CompTIA Network+/Security+/Linux+ or similar]
+## 🌱 Currently Learning
+- CompTIA Network+ certification preparation
+- Network monitoring tools (Nagios, Zabbix)
+- Advanced Python for network automation
+- Building homelab environment for hands-on practice
 
-### 🌱 Current Learning Path
-- Containerization with Docker
-- Infrastructure as Code (Terraform/Ansible)
-- Monitoring and logging tools (Prometheus, Grafana, ELK Stack)
-- Security best practices and vulnerability assessment
+## 💼 What I'm Looking For
+Entry-level positions in:
+- **NOC Technician** - Network monitoring, incident escalation, troubleshooting
+- **Junior Network Administrator** - Network operations, maintenance, support
+- **Junior Systems Administrator** - Linux/Windows server support
 
-### 👯 I'm Looking to Collaborate On
-- Open-source DevOps tools
-- Security automation projects
-- Infrastructure monitoring solutions
-- Any projects that help me grow my IT skills
+**Available for:** Immediate start | Rotational shifts | Night shifts
 
-### 💼 What I'm Looking For
-Junior positions in:
-- **NOC (Network Operations Center)** - Monitoring, incident response
-- **SRE (Site Reliability Engineering)** - System reliability, automation
-- **DevOps** - CI/CD, infrastructure automation
-- **Cybersecurity** - SOC analyst, security operations
+## 📫 How to Reach Me
+- **LinkedIn:** [linkedin.com/in/bryan-jc](https://www.linkedin.com/in/bryan-jc/)
+- **Email:** [Your email]
+- **Location:** Santa Cruz, Guanacaste, Costa Rica
 
-### 📫 How to Reach Me
-- **LinkedIn:** [linkedin.com/in/bryan-jaén-contreras](https://www.linkedin.com/in/bryan-ja%C3%A9n-contreras-931a75388/)
-- **Email:** your.email@example.com
-- **Portfolio/Blog:** [Your website if you have one]
+## ⚡ About Me
+- 🐧 Linux daily driver - comfortable in terminal and CLI tools
+- 🔧 Hands-on learner - I learn best by building and breaking things
+- 🌐 Network troubleshooting enthusiast
+- 📚 Constantly studying new technologies and certifications
 
-### ⚡ Fun Facts
-- 🐧 Linux enthusiast - I switched to Linux as my daily driver
-- 🤖 I automate repetitive tasks because I'm productively lazy
-- 🔐 Cybersecurity news and CTF challenges are my weekend reading
-- 📚 Always learning something new in tech
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xBryanJCx&show_icons=true&theme=radical)
 
 ---
-💡 *"The best way to predict the future is to create it."* - Open to entry-level opportunities and mentorship!
+💡 *"Ready to start my IT career and grow with the right team."*
+
+🟢 **Open to Work** | NOC Technician | Junior Network Admin | Entry-Level IT Infrastructure Roles
