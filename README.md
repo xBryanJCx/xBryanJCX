@@ -26,7 +26,7 @@ Entry-level positions in:
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/bryan-jc](https://www.linkedin.com/in/bryan-jc/)
-- **Email:** [Your email]
+- **Email:** bryan.jc.tech@gmail.com
 - **Location:** Santa Cruz, Guanacaste, Costa Rica
 
 ## ⚡ About Me
