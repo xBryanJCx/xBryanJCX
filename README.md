@@ -1,6 +1,6 @@
 # Hola! 👋 Soy Bryan
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB3YjZxN3Z5dXdzZGZhcWtyYnhuZDYwYjR1cnI2YWJ6Y2EzczZwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAc3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB3YjZxN3Z5dXdzZGZhcWtyYnhuZDYwYjR1cnI2YWJ6Y2EzczZwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAc3Pfv687qPC/giphy.gif](https://pin.it/6U4XA8ut5)" width="500"/>
 </div>
 ## 🚀 En construcción...
 
