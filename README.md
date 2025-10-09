@@ -1,6 +1,8 @@
 # Hola! 👋 Soy Bryan
 
-![Estudiando gif](assets/estudiando.gif)
+<div align="center">
+  <img src="./descarga.gif" width="500"/>
+</div>
 
 ## 🚀 En construcción...
 
