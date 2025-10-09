@@ -8,7 +8,7 @@
 
 Estudiante de Ingeniería de Sistemas en la Fidelitas, explorando el mundo de **Data Analytics** y **Data Engineering**. 
 
-Actualmente no estoy buscando trabajo - primero quiero terminar mi carrera y armar un portafolio decente que muestre lo que voy aprendiendo.
+Actualmente no estoy buscando trabajo.
 
 ## 🎯 ¿Qué estoy haciendo?
 
