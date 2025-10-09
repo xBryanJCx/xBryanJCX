@@ -1,7 +1,7 @@
 # Hola! 👋 Soy Bryan
-<div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB3YjZxN3Z5dXdzZGZhcWtyYnhuZDYwYjR1cnI2YWJ6Y2EzczZwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAc3Pfv687qPC/giphy.gif](https://pin.it/6U4XA8ut5)" width="500"/>
-</div>
+
+![Estudiando gif](assets/estudiando.gif)
+
 ## 🚀 En construcción...
 
 Estudiante de Ingeniería de Sistemas en la Fidelitas, explorando el mundo de **Data Analytics** y **Data Engineering**. 
