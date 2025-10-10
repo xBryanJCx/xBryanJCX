@@ -51,7 +51,6 @@ Santa Cruz, Guanacaste, Costa Rica 🇨🇷
 
 ## 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/bryan-jc](https://www.linkedin.com/in/bryan-jc/)
 - **Email:** bryan.jc.tech@gmail.com
 
 ---
