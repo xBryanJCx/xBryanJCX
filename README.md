@@ -1,62 +1,62 @@
-# Hola, soy Bryan
+que le puedo poner mas a esto? # Hola! 👋 Soy Bryan
 
-<p align="center">
-  <!-- Reemplaza por tu banner propio (1200×300). Evita GIF pesados -->
-  <img src="banner-bryan.png" alt="Bryan | Data Analytics en progreso" width="100%" />
-</p>
+<div align="center">
+  <img src="./descarga.gif" width="500"/>
+</div>
 
-<p align="center">
-  <a href="#-proyectos"><img src="https://img.shields.io/badge/Portafolio-Proyectos-blue" /></a>
-  <a href="#-stack"><img src="https://img.shields.io/badge/Stack-Datos%20%7C%20Python%20%7C%20SQL-green" /></a>
-  <img src="https://img.shields.io/badge/Status-No%20busco%20trabajo-inactive" />
-  <img src="https://img.shields.io/badge/Ubicación-Guanacaste%2C%20CR-lightgrey" />
-  <img src="https://img.shields.io/badge/Idiomas-ES%20%7C%20EN-yellowgreen" />
-</p>
+## 🚀 En construcción...
 
-## 🚀 En construcción
-Estudiante de Ingeniería de Sistemas (Universidad Fidélitas). Enfocado en **Data Analytics** y **Data Engineering**.  
-**Status:** estudiando y creando proyectos. No buscando trabajo.
+Estudiante de Ingeniería de Sistemas en la Fidelitas, explorando el mundo de **Data Analytics** y **Data Engineering**. 
 
-## 🎯 En qué estoy
-- 📚 Finalizando la carrera
-- 📊 Data Analysis desde cero
-- 🐍 Python para análisis de datos
-- 💾 SQL y modelado básico
-- 📈 Proyectos para portafolio
+Actualmente no estoy buscando trabajo.
 
-## 🧰 Stack
-**Datos:** Python · Pandas · NumPy · Matplotlib · SQL · Excel/Google Sheets · Data Viz  
-**Desarrollo:** Git · GitHub · Linux básico · Python scripting
+## 🎯 ¿Qué estoy haciendo?
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.11-blue" />
-  <img src="https://img.shields.io/badge/Pandas-Dataframe-black" />
-  <img src="https://img.shields.io/badge/NumPy-Arrays-informational" />
-  <img src="https://img.shields.io/badge/Matplotlib-Charts-success" />
-  <img src="https://img.shields.io/badge/SQL-Queries-orange" />
-  <img src="https://img.shields.io/badge/Excel%2FGSheets-ETL%20ligero-brightgreen" />
-  <img src="https://img.shields.io/badge/Git%20%7C%20GitHub-Versionado-lightgrey" />
-  <img src="https://img.shields.io/badge/Linux-Básico-critical" />
-</p>
+- 📚 Terminando mi carrera de Ingeniería de Sistemas en la Fidelitas
+- 📊 Aprendiendo Data Analysis desde cero
+- 🐍 Practicando Python para análisis de datos
+- 💾 Explorando bases de datos y SQL
+- 📈 Haciendo proyectos personales para mi portafolio
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+**Datos:**
+- Python (Pandas, NumPy, Matplotlib)
+- SQL y bases de datos
+- Excel/Google Sheets
+- Visualización de datos
+
+**Desarrollo:**
+- Git & GitHub
+- Python scripting
+- Linux básico
+
+**Idiomas:**
+- Español (Nativo)
+- Inglés (Intermedio)
 
 ## 📂 Proyectos
-> Este bloque crecerá con repos reales. Ejemplos de estructura:
 
-- **Análisis de Ventas Minoristas** · *Exploración, limpieza, KPIs, visualizaciones*  
-  `Python · Pandas · Matplotlib` · [repo](#) · [notebook](#) · [reporte.pdf](#)
+Este espacio se va a ir llenando conforme vaya creando proyectos de data analysis...
 
-- **Precios Combustible CR** · *Dataset público, imputación, serie temporal simple*  
-  `Python · Pandas` · [repo](#) · [EDA.ipynb](#)
+*Por ahora está medio vacío, pero va a mejorar* 😅
 
-- **Mini ETL CSV→SQLite** · *Pipeline local y esquema tabular*  
-  `Python · SQL · CLI` · [repo](#) · `python src/main.py --input data/`
+## 🎓 Educación
 
-<details>
-<summary>🧪 Cómo ejecuto mis proyectos</summary>
+**Ingeniería de Sistemas** - Universidad Fidelitas (En curso)
 
-```bash
-# Entorno ejemplo
-conda create -n data python=3.11 -y
-conda activate data
-pip install -r requirements.txt
-python src/main.py
+## 📍 Ubicación
+
+Santa Cruz, Guanacaste, Costa Rica 🇨🇷
+
+## 📫 Contacto
+
+- **Email:** bryan.jc.tech@gmail.com
+
+---
+
+💭 *Aprendiendo en público y construyendo un portafolio de data paso a paso*
+
+🔵 **Status:** Estudiando y creando proyectos | No buscando trabajo activamente
+
+talvez camiar los dibujos.
