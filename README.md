@@ -1,4 +1,4 @@
-que le puedo poner mas a esto? # Hola! 👋 Soy Bryan
+# Hola! 👋 Soy Bryan
 
 <div align="center">
   <img src="./descarga.gif" width="500"/>
